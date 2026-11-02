@@ -9,8 +9,8 @@ An exploratory analysis of e-commerce customer and purchase data. The project cl
 ├── analysis.ipynb
 ├── data_cleaning.ipynb
 ├── data/
-│   ├── Ecommerce_Consumer_Behavior_Analysis_Data.csv
-│   └── Ecommerce_Consumer_Behavior_Analysis_Data_clean.csv
+│   ├── Ecommerce_Consumer_Data_Raw.csv
+│   └── Ecommerce_Consumer_Data_clean.csv
 └── reports/
     ├── consumer_behavior_business_insights.md
     └── figures/
