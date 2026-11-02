@@ -36,5 +36,5 @@ The highest recorded-sales month is April 2024 ($28,617.22). Monthly totals depe
 
 ## Generated data
 
-- Cleaned dataset: `../data/Ecommerce_Consumer_Behavior_Analysis_Clean.csv`
+- Cleaned dataset: `../data/Ecommerce_Consumer_Behavior_Analysis_Data_clean.csv`
 - Charts: `figures/`
